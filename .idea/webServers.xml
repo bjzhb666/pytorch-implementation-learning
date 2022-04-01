@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="68fc304d-5a05-43e5-aa27-725bab1f235a" name="sshConfig://zhaohongbo@172.18.32.194:22 password/home1/zhaohongbo/anaconda3/envs/hypercl_env/bin/python3.7">
+        <fileTransfer accessType="SFTP" host="172.18.32.194" port="22" sshConfigId="e112686c-68cd-431a-ac19-fe4a1de20e37" sshConfig="sshConfig://zhaohongbo@172.18.32.194:22 password/home1/zhaohongbo/anaconda3/envs/hypercl_env/bin/python3.7" />
+      </webServer>
+    </option>
+  </component>
+</project>
